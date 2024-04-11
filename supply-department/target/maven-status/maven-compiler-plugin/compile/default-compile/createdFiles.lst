@@ -1,0 +1,9 @@
+supply\battery\CronaBattery.class
+supply\battery\Battery.class
+supply\battery\AAABattery.class
+supply\SupplyManager.class
+supply\component\RadioModule.class
+supply\component\Chip.class
+supply\component\Component.class
+supply\battery\AABattery.class
+supply\battery\BatteryBrand.class

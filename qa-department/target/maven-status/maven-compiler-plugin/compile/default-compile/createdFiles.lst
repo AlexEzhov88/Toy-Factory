@@ -1,0 +1,5 @@
+qa\service\SignalCheck.class
+qa\MainToyFactory.class
+qa\QADepartment.class
+qa\service\FunctionalityTest.class
+qa\service\ComponentCheck.class
